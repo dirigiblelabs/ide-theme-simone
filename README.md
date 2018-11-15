@@ -1,11 +1,11 @@
-# Simone IDE Themes Plugin for Eclipse Dirigible
+# Simone Theme Plugin for Eclipse Dirigible
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/ide-theme-simone.svg)](https://github.com/dirigiblelabs/ide-theme-simone/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/resources-theme-simone.svg)](https://github.com/dirigiblelabs/resources-theme-simone/graphs/contributors)
 
 ## Overview
 
-Simone IDE Themes Plugin for the [Eclipse Dirigible](https://github.com/eclipse/dirigible) WebIDE v3.x and above.
+Simone Theme Plugin for the [Eclipse Dirigible](https://github.com/eclipse/dirigible) WebIDE v3.x and above.
 
 Build the [Eclipse Dirigible](https://github.com/eclipse/dirigible), deploy on e.g. Tomcat Web Container and go to location:
 
