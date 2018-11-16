@@ -11,6 +11,7 @@
 exports.getTheme = function() {
 	return {
 		'id': 'simone',
-		'module': 'theme-simone'
+		'module': 'theme-simone',
+		'name': 'Simone'
 	};
 };
