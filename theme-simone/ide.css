@@ -35,7 +35,7 @@ body {
 	vertical-align: top;
 	-webkit-flex: none;
 	flex: none;
-	position: relative;
+	position: fixed;
 	top: 24px;
 }
 .plane {
